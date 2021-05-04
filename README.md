@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.freepik.com%2Fvetores-premium%2Fprogramador-com-codigo-gato-no-livro-e-cafe-vector-clip-art-ilustracao_6078373.htm&psig=AOvVaw3KHTzIqLU0ZHsWkaliWiuu&ust=1620175812322000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPC5obPnrvACFQAAAAAdAAAAABAD"/>
 
 <!--
 **DanielNery/DanielNery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
