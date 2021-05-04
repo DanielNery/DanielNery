@@ -1,6 +1,8 @@
 # Daniel Nery
-> Hi there 👋
+> 19 Anos, Software Developer, Instituto Federal de São Paulo.
 
+## "A honra é a poesia do viver"
+### Apaixonado por tecnologia
 
 ## 👨👩 Social | 👩‍💻 Languages
 
