@@ -1,10 +1,7 @@
 # Daniel Nery
-> 19 Anos, Software Developer, Instituto Federal de São Paulo.
-> "A honra é a poesia do viver"
-> Apaixonado por tecnologia ❤️
-
-## "A honra é a poesia do viver"
-### Apaixonado por tecnologia
+> 19 Anos, Software Developer, Instituto Federal de São Paulo.<br/>
+> "A honra é a poesia do viver"<br/>
+> Apaixonado por tecnologia ❤️<br/>
 
 ## 👨👩 Social | 👩‍💻 Languages
 
