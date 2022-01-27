@@ -1,5 +1,6 @@
 # Daniel Nery 👦
 > 20 Anos, Analista de Sistemas, Instituto Federal de São Paulo. ⌛<br/>
+> Focoo em me tornar um cientista de dados
 > "A honra é a poesia do viver" 🔥<br/>
 > Apaixonado por tecnologia ❤️<br/>
 
