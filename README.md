@@ -4,8 +4,8 @@
 <div>
 
   > ⌛ 20 Anos, Analista de Sistemas Python, Instituto Federal de São Paulo. <br/>
-  > 🎲 Focado em me tornar um Cientista de Dados.<br/>
-  > 🐍 Estudando Python e suas tecnologias.<br/>
+  > 🎲 Estudando Cientista de Dados.<br/>
+  > 🐍 Desenvolvo em Python e suas tecnologias.<br/>
   > 🔥 "A honra é a poesia do viver".<br/>
   > ❤️ Apaixonado por tecnologia.<br/>
 
