@@ -3,7 +3,7 @@
 
 <div>
 
-  > ⌛ 20 Anos, Analista de Sistemas Python, Instituto Federal de São Paulo. <br/>
+  > ⌛ 21 Anos, Analista de Sistemas Python, Instituto Federal de São Paulo. <br/>
   > 🐍 Desenvolvo em Python e suas tecnologias.<br/>
   > 🔥 "A honra é a poesia do viver".<br/>
   > ❤️ Apaixonado por tecnologia.<br/>
