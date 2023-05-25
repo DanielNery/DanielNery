@@ -3,10 +3,10 @@
 
 <div>
 
-  > ⌛ 21 Anos, Analista de Sistemas Python, Instituto Federal de São Paulo. <br/>
-  > 🐍 Desenvolvo em Python e suas tecnologias.<br/>
+  > ⌛ 21 Years old, Systems Analyst, Federal Institute Of São Paulo. <br/>
+  > 🐍 Work with Python, React and other technologies.<br/>
   > 🔥 "A honra é a poesia do viver".<br/>
-  > ❤️ Apaixonado por tecnologia.<br/>
+  > ❤️ technology lover.<br/>
 
 </div>
 
