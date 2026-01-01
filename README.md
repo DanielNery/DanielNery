@@ -2,7 +2,7 @@
 
 <div align="center">
 
-> ⌛ 23 anos · Analista de Sistemas · IFSP  
+> ⌛ 24 anos · Analista de Sistemas · IFSP  
 > 🐍 Apaixonado por Python, React e outras tecnologias modernas  
 > 🥂 Instrutor do 1º curso técnico de Odoo em Português do Brasil na Udemy  
 > 🔥 “A honra é a poesia do viver”  
