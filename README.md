@@ -1,10 +1,9 @@
-# Menino de Programa ( ͡° ͜ʖ ͡°)
 
 <div align="center">
 
-> ⌛ 24 anos · Analista de Sistemas · IFSP  
+> ⌛ Mais de  6 anos de programação · Enegnheiro de Software · IFSP  
 > 🐍 Apaixonado por Python, React e outras tecnologias modernas  
-> 🥂 Instrutor do 1º curso técnico de Odoo em Português do Brasil na Udemy  
+> 🥂 Instrutor do 1º curso técnico e melhor avaliado de Odoo em Português do Brasil na Udemy  
 > 🔥 “A honra é a poesia do viver”  
 > ❤️ Technology lover
 
